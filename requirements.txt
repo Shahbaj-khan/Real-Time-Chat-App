@@ -1,6 +1,5 @@
 pathlib
-django.urls 
-django.core.wsgi 
+django.urls
 datetime 
 django.db
 django.apps 
