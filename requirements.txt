@@ -1,5 +1,4 @@
 pathlib
-django.contrib 
 django.urls 
 django.core.wsgi 
 datetime 
