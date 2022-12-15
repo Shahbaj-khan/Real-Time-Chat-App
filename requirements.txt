@@ -4,6 +4,5 @@ datetime
 django.db
 django.apps 
 django.test
-django.shortcuts 
-chat.models 
+django.shortcuts
 django.http
