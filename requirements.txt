@@ -9,7 +9,6 @@ Path
 include
 Room
 Message
-AppConfig
 models
 datetime
 TestCase
