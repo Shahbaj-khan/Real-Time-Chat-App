@@ -5,7 +5,6 @@ django.db
 django.apps 
 django.test
 django.shortcuts
-sys
 get_asgi_application
 Path
 admin
