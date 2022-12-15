@@ -7,7 +7,6 @@ django.test
 django.shortcuts
 Path
 include
-get_wsgi_application
 admin
 Room
 Message
