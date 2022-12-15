@@ -6,7 +6,6 @@ django.apps
 django.test
 django.shortcuts
 Path
-admin
 include
 get_wsgi_application
 admin
