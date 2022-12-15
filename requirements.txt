@@ -5,8 +5,7 @@ django.contrib
 django.urls 
 django.core.wsgi 
 datetime 
-django.db 
-.models 
+django.db
 django.apps 
 django.test 
 . import 
