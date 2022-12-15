@@ -12,4 +12,3 @@ datetime
 TestCase
 views
 render
-JsonResponse
