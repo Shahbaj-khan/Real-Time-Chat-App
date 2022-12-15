@@ -7,7 +7,6 @@ django.test
 django.shortcuts
 Path
 include
-admin
 Room
 Message
 AppConfig
