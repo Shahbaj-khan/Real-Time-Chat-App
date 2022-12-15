@@ -12,6 +12,5 @@ datetime
 TestCase
 views
 render
-redirect
 HttpResponse
 JsonResponse
