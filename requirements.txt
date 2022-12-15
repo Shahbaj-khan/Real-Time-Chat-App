@@ -1,5 +1,4 @@
-pathlib 
-django.core.asgi 
+pathlib
 django.contrib 
 django.urls 
 django.core.wsgi 
